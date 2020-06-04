@@ -8,4 +8,6 @@ featuredimage: /img/flavor_wheel.jpg
 tags:
   - another one
 ---
+![](/img/blog-index.jpg)
+
 Blah blah to por
